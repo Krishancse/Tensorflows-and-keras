@@ -1,6 +1,6 @@
 LLM
 
- Self-Supervised Learning for Image Captioning**  
+ 1.Self-Supervised Learning for Image Captioning**  
 Concept: Implement a self-supervised image captioning model that learns from unlabeled images using contrastive learning techniques like SimCLR before fine-tuning with labeled datasets (e.g., MS COCO).  
 Key Technologies:  
 ✅ Vision Transformer (ViT) + Contrastive Learning (SimCLR)  
@@ -11,14 +11,14 @@ Impact: Reduces dependency on large labeled datasets, a major problem in compute
 
 
 🚀 2. Generative AI for Personalized Drug Discovery
-**Concept**: Build a **Transformer-based molecular generator** that designs novel drugs for specific diseases using SMILES (Simplified Molecular Input Line Entry System).  
-**Key Technologies**:  
+Concept : Build a **Transformer-based molecular generatorthat designs novel drugs for specific diseases using SMILES (Simplified Molecular Input Line Entry System).  
+Key Technologies:  
 ✅ Graph Neural Networks (GNNs) + Transformer-based models (BERT-like for molecules)  
 ✅ TensorFlow for model training & RL-based optimization  
 ✅ Use datasets like **ZINC** & **PubChem**  
 Impact: Demonstrates AI-driven innovation in **biotech and pharma**—a hot research area at Stanford!  
 
----
+
 
  🔍 3. Zero-Shot Learning for Medical Diagnosis
 Concept: Train a few-shot learning model using CLIP (Contrastive Language-Image Pretraining)** and **Vision Transformers (ViTs)** to diagnose diseases from medical images **without requiring massive labeled datasets.  
